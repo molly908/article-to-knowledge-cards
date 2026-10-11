@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn articles into knowledge cards"
+  default_prompt: "Turn this article into 5-8 knowledge cards with explanations, examples, and self-test questions."
